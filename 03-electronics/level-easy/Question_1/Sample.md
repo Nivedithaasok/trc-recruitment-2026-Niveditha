@@ -14,3 +14,6 @@
       ~ Print the yellow message, then wait 3 seconds (delay(3000))
 - When the last delay finishes, loop() starts again from the top, so the sequence goes Red, Green, Yellow, Red, and so on.
 
+## Tinkercad link :-
+https://www.tinkercad.com/things/gVGyU3m7jFh/editel?returnTo=%2Fdashboard
+
