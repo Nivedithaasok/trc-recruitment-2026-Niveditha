@@ -19,6 +19,7 @@
   - Else, if the temperature is below 'LOW_TEMP' (25 °C), it prints "Fan OFF" and sets the LED to LOW.
   - Otherwise, the temperature is between 25 °C and 40 °C, so it prints "Fan in Standby" and sets the LED to LOW.
   - 'delay(1000)' makes the loop repeat once per second.
+    
 
 ## Tinkercad Link :-
    https://www.tinkercad.com/things/bp5mEz8zkOs/editel?returnTo=%2Fdashboard
